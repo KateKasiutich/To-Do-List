@@ -1,2 +1,2 @@
 # To-Do-List
-To Keep Thingd In Mind
+To Keep Things In Mind
